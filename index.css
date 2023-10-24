@@ -7,3 +7,6 @@ body {
 p {
   background-color: red;
 }
+.container {
+  width: 100px;
+}
